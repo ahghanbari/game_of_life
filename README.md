@@ -1,8 +1,9 @@
 # Game of Life
 
-simple implementation of "Conway's Game of Life" with python.
+Simple implementation of "Conway's Game of Life" with python.
 ## Run
 <code>python3 game_of_life.py</code>
+<br>
 For stoping it:
 <code>ctrl+c</code>
 <hr>
